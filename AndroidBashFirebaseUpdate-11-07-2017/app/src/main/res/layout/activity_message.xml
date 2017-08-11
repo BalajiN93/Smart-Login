@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <!--https://github.com/firebase/quickstart-android/tree/master/messaging-->
+    <TextView
+        android:id="@+id/informationTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="@string/quickstart_message"
+        android:textSize="18dp" />
+
+
+    <Space
+        android:layout_width="1dp"
+        android:layout_height="10dp" />
+
+
+    <Button
+        android:id="@+id/subscribeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60dp"
+        android:text="@string/subscribe_to_news" />
+
+
+    <Space
+        android:layout_width="1dp"
+        android:layout_height="10dp" />
+
+    <Button
+        android:id="@+id/logTokenButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/log_token" />
+
+
+</LinearLayout>

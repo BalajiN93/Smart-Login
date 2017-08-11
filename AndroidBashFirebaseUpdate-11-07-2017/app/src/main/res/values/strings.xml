@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">SN LOGIN</string>
+    <string name="action_logout"> Log Out</string>
+    <string name="facebook_app_id">204263536763404</string>
+    <string name="loading">Loading</string>
+    <string name="twitter_consumer_key" translatable="false">NckgyiepzQSZBRsSV5F2JSNqn</string>
+    <string name="twitter_consumer_secret" translatable="false">Hq1sarcAEOSoj0A82Crnr5rOWOjB6JzOQwzyuQ9Y1FTvghIbmp</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">NckgyiepzQSZBRsSV5F2JSNqn</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">Hq1sarcAEOSoj0A82Crnr5rOWOjB6JzOQwzyuQ9Y1FTvghIbmp</string>
+    <string name="forgot">Forgotten your password?</string>
+    <string name="signin">Sign in with</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+
+
+
+
+
+
+</resources>
+
+
